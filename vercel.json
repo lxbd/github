@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "http://www.cfngd.top/$1"}
+    {"source": "/(.*)", "destination": "http://s.vip.hk/$1"}
   ]
 }
