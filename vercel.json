@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://
-wp.lx8d.eu.org/$1"}
+    {"source": "/(.*)", "destination": "http://
+s.vip.hk/$1"}
   ]
 }
