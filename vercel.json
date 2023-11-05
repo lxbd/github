@@ -1,5 +1,6 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://wordpress.lx8d.eu.org/$1"}
+    {"source": "/(.*)", "destination": "https://
+wordpress.lx8d.workers.dev/$1"}
   ]
 }
