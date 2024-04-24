@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://www.lx8d.rr.nu/$1"}
+    {"source": "/(.*)", "destination": "https://lx8d.rr.nu/$1"}
   ]
 }
