@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    {"source": "/(.*)", "destination": "https://dev-lx8d.pantheonsite.io/$1"}
+    {"source": "/(.*)", "destination": "https://blog-pod4.onrender.com/$1"}
   ]
 }
